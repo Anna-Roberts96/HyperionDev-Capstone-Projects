@@ -19,7 +19,7 @@ This program creates the .txt file and will be stored in the same folder as the 
 
 ## 2. Finance calculators
 
-# Description
+### Description
 This program is a calculator designed to work out a bond repayment or investment return. 
 There is the option to calculate investment as simple or compound.
 This was my first capstone project.
